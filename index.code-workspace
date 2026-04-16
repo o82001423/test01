@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../index"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index"
+	}
+}
